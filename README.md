@@ -1,3 +1,5 @@
+#Planilha usada em meus testes https://docs.google.com/spreadsheets/d/1it6l8EIe0Cy15jVQMXG1TMaqWg0doEFpqXrHUnJnODY/edit#gid=0 
+
 # Send Email from a *Static* HTML Form using Google Apps Mail!
 
 **Language : `English` | [한국어](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.ko.md#google-apps-mail을-사용해-정적-html-form에서-메일을-보내세요) | [Español](https://github.com/dwyl/learn-to-send-email-via-google-script-html-no-server/blob/master/README.es.md#older-translation)**
